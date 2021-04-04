@@ -27,8 +27,11 @@ O projeto foi dividido em duas partes, a imagem demonstra a parte inicial do jog
 ➤ **Hobbies**
 
 ● Jogos de vídeo 🎮
+
 ● Futebol ⚽
+
 ● Ver séries 🎬
+
 ● Cozinhar
 
 -----------
