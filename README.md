@@ -3,8 +3,11 @@
 Estudante de Engenharia Informática na Universidade Lusófona
 
 ➤ **Skills**
-|Java| "w3-light-grey w3-round"|
+
+|Java|
+
 |C|
+
 |Kotlin|
 
 
