@@ -24,4 +24,9 @@ O projeto foi dividido em duas partes, a imagem demonstra a parte inicial do jog
 ![image](https://user-images.githubusercontent.com/77054565/113521600-63610a80-9592-11eb-8b40-5628938b1fa2.png)
 
 
+➤ **Linkedin**
+
+[link](https://www.linkedin.com/in/rodrigo-eira-7542811b3/)
+
+
 
