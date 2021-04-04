@@ -4,9 +4,9 @@ Estudante de Engenharia Informática na Universidade Lusófona
 
 ➤ **Skills**
 
-|Java|
-|C|
-|Kotlin|
+|JAVA|5|
+|KOTLIN|5|
+|C|5|
 
 
 ➤ **Works**
