@@ -2,6 +2,8 @@
 
 Estudante de Engenharia Informática na Universidade Lusófona
 
+
+
 ➤ **Skills**
 
 |Linguagens |nível(0-5)|
@@ -9,6 +11,7 @@ Estudante de Engenharia Informática na Universidade Lusófona
 |JAVA|● ● ● |
 |KOTLIN|● ● ● ● |
 |C|● ● ● |
+
 
 
 ➤ **Works**
