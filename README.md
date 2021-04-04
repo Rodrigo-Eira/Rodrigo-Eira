@@ -6,9 +6,9 @@ Estudante de Engenharia Informática na Universidade Lusófona
 
 ➤ **Skills**
 
-| Linguagens | Beginner | Elementary | Intermediate | Advacend | Expert |
+|Linguagens |Nível (0 - 5)|
 |-----------|-----|
-|JAVA|● ● ● | 
+|JAVA|● ● ● |
 |KOTLIN|● ● ● ● |
 |C|● ● ● |
 
