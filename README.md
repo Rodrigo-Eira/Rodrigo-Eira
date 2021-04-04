@@ -1,5 +1,3 @@
-## Rodrigo Eira - Portfólio
-
 Estudante de Engenharia Informática na Universidade Lusófona
 
 
