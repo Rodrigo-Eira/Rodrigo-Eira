@@ -35,7 +35,11 @@ O projeto foi dividido em duas partes, a imagem demonstra a parte inicial do jog
 ● Cozinhar
 
 -----------
-➤ **[Linkedin](https://www.linkedin.com/in/rodrigo-eira-7542811b3/)**
+➤ **Contact me**
+
+● **[Linkedin](https://www.linkedin.com/in/rodrigo-eira-7542811b3/)**
+
+● **baiaeira@gmail.com**
 
 
 
