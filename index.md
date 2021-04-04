@@ -5,6 +5,7 @@ Sou um estudante de Engenharia Informática na Universidade Lusófona.
 Adoro programar e quero que isso seja o meu futuro. 
 
 
+-----------
 # Skills
 
 |Linguagens |Beginner |Elementary |Intermediate |Advanced |Expert| 
