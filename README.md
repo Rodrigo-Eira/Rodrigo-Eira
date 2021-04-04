@@ -32,7 +32,7 @@ O projeto foi dividido em duas partes, a imagem demonstra a parte inicial do jog
 
 ● Ver séries 🎬
 
-● Cozinhar
+● Cozinhar 🍪
 
 -----------
 # Contact me
