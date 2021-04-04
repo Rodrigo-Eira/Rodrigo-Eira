@@ -8,9 +8,9 @@ Sou um estudante de Engenharia Informática na Universidade Lusófona. Adoro pro
 
 |Linguagens |Beginner |Elementary |Intermediate |Advanced |Expert| 
 |-----------|-----------|-----------|-----------|-----------|-----------|
-|JAVA|✘ |✘ |✘ |  |  |
-|KOTLIN|✘ |✘ |✘ |✘ |  |
-|C|✘ |✘ |✘ |  |  |
+|JAVA|✓ |✓ |✓ |  |  |
+|KOTLIN|✓ |✓ |✓ |✓ |  |
+|C|✓ |✓ |✓ |  |  |
 
 
 -----------
@@ -22,6 +22,8 @@ Em 2020 desenvolvi um jogo de xadrez funcional, apesar de ter algumas diferença
 O projeto foi dividido em duas partes, a imagem demonstra a parte inicial do jogo.
 
 ![image](https://user-images.githubusercontent.com/77054565/113521600-63610a80-9592-11eb-8b40-5628938b1fa2.png)
+
+
 
 -----------
 # Hobbies
