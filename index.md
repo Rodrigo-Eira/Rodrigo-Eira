@@ -25,13 +25,46 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+## Rodrigo Eira - Portfólio
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Estudante de Engenharia Informática na Universidade Lusófona
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Rodrigo-Eira/rodrigo-eira/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+# Skills
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+|Linguagens |Beginner |Elementary |Intermediate |Advanced |Expert| 
+|-----------|-----------|-----------|-----------|-----------|-----------|
+|JAVA|✘ |✘ |✘ |  |  |
+|KOTLIN|✘ |✘ |✘ |✘ |  |
+|C|✘ |✘ |✘ |  |  |
+
+
+-----------
+# Works
+
+● **Jogo de Xadrez**
+
+Em 2020 desenvolvi um jogo de xadrez funcional, apesar de ter algumas diferenças com o jogo tradicional. Este projeto foi desenvolvido na linguagem de programação Kotlin.
+O projeto foi dividido em duas partes, a imagem demonstra a parte inicial do jogo.
+
+![image](https://user-images.githubusercontent.com/77054565/113521600-63610a80-9592-11eb-8b40-5628938b1fa2.png)
+
+-----------
+# Hobbies
+
+● Jogos de vídeo 🎮
+
+● Futebol ⚽
+
+● Ver séries 🎬
+
+● Cozinhar 🍪
+
+-----------
+# Contact me
+
+● **[Linkedin](https://www.linkedin.com/in/rodrigo-eira-7542811b3/)**
+
+● **baiaeira@gmail.com**
+
