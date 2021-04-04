@@ -1,6 +1,6 @@
 # About me
 
-Sou um estudante de Engenharia Informática na Universidade Lusófona. Adoro programar e quero que isso seja o meu futuro.
+Sou um estudante de Engenharia Informática na Universidade Lusófona. Adoro programar e no futuro gostava de me especializar na área da cibersegurança. Gosto de novos desafios e prefiro resolver problemas em equipa.
 
 
 -----------
