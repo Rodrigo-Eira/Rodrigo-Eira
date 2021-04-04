@@ -8,9 +8,9 @@ Estudante de Engenharia Informática na Universidade Lusófona
 
 | Linguagens | Beginner | Elementary | Intermediate | Advacend | Expert |
 |-----------|-----|
-|JAVA|● ● ● 
-|KOTLIN|● ● ● ● 
-|C|● ● ● 
+|JAVA|● ● ● | 
+|KOTLIN|● ● ● ● |
+|C|● ● ● |
 
 
 -----------
