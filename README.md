@@ -1,4 +1,4 @@
-## Rodrigo Eira
+## Rodrigo Eira - Portfólio
 
 Estudante de Engenharia Informática na Universidade Lusófona
 
@@ -14,7 +14,7 @@ Estudante de Engenharia Informática na Universidade Lusófona
 
 
 -----------
-➤ **Works**
+# Works
 
 ● **Jogo de Xadrez**
 
