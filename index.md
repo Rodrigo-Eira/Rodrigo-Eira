@@ -44,9 +44,9 @@ Este programa foi desenvolido na linguagem de programação Kotlin.
 ● Cozinhar 🍪
 
 -----------
-● **[CV](https://download1649.mediafire.com/ohhg37zr0zpg/nveixajihrkegrf/CV+Rodrigo+Eira.pdf)
+● **[CV](https://download1649.mediafire.com/ohhg37zr0zpg/nveixajihrkegrf/CV+Rodrigo+Eira.pdf)**
 
-● **[Carta de apresentação]**(https://download1651.mediafire.com/wc9zgnsjhybg/bscor1yx3m5enyx/Carta+de+apresenta%C3%A7%C3%A3o.pdf)
+● **[Carta de apresentação](https://download1651.mediafire.com/wc9zgnsjhybg/bscor1yx3m5enyx/Carta+de+apresenta%C3%A7%C3%A3o.pdf)**
 
 -----------
 # Contact me
