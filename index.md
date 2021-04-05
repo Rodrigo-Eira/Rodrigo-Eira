@@ -24,6 +24,13 @@ O projeto foi dividido em duas partes, a imagem demonstra a parte inicial do jog
 ![image](https://user-images.githubusercontent.com/77054565/113521600-63610a80-9592-11eb-8b40-5628938b1fa2.png)
 
 
+● **Trajetória de um corpo**
+
+Este trabalho representa graficamente a trajetória de um corpo que tem como objetivo acertar numa rede, a imagem demonstra o gráfico criado pelo o programa desenvolvido.
+Este programa foi desenvolido na linguagem de programação Kotlin.
+
+![image](https://user-images.githubusercontent.com/77054565/113525002-551ee880-95aa-11eb-8e7f-ca6f49073a5c.png)
+
 
 -----------
 # Hobbies
